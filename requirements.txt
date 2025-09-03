@@ -1,0 +1,6 @@
+pandas
+numpy
+python-dotenv
+yfinance
+praw
+ollama
