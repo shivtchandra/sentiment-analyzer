@@ -1,0 +1,18 @@
+# Core
+streamlit>=1.10.0,<2.0
+pandas>=1.5.3,<2.3
+numpy>=1.22.0,<1.27
+
+# plotting & notebook
+matplotlib>=3.5.0,<3.11
+
+# ML
+scikit-learn>=1.2.2,<1.6
+scipy==1.13.1
+
+# data sources & API
+yfinance>=0.2.22
+praw>=7.6.0
+python-dotenv>=1.0.0
+
+
